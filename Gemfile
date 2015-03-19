@@ -14,8 +14,8 @@ gemspec
 # gem 'debugger'
 
 # Gems used by the dummy application
-gem 'rails', '~> 4.0.0'
-gem 'sass-rails', '~> 4.0.2'
+gem 'rails', '~> 4.2'
+gem 'sass-rails', '~> 4.2'
 gem 'coffee-rails'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
